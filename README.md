@@ -41,7 +41,7 @@ La magia de VS code es la multiplataforma, el soporte de varios lenguajes y la p
 - [Extension Pack](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-extension-pack)
 - [Themes](https://marketplace.visualstudio.com/search?term=themes&target=VSCode&category=Themes&sortBy=Relevance)
 - [Compile Run](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run)
-- Copilot - Revisar estos dos enlaces: [tut oficial](https://techcommunity.microsoft.com/t5/educator-developer-blog/qu%C3%A9-es-github-copilot-y-c%C3%B3mo-pueden-los-estudiantes-y-maestros/ba-p/3815760), [tut internet](https://dev.to/twizelissa/how-to-enable-github-copilot-for-free-as-student-4kal)
+- Copilot - Revisar estos dos enlaces: [tutorial oficial](https://techcommunity.microsoft.com/t5/educator-developer-blog/qu%C3%A9-es-github-copilot-y-c%C3%B3mo-pueden-los-estudiantes-y-maestros/ba-p/3815760), [tutorial internet](https://dev.to/twizelissa/how-to-enable-github-copilot-for-free-as-student-4kal)
 - [Mintlify](https://mintlify.com/)
 
 
